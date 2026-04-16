@@ -1,0 +1,15 @@
+🛡️ Laboratorios de Ciberseguridad e Infraestructura
+Práctica: Gestión de Inodos y Enlaces (Soft vs Hard Links)
+
+📋 Descripción
+En esta práctica exploré cómo Linux identifica los archivos internamente y cómo gestionar enlaces simbólicos.
+
+🛠️ Lo que aprendí ayer:
+Inodos: Identificación única de archivos (`ls -li`).
+Broken Links: Identifiqué enlaces en **color rojo** (rotos) y aprendí por qué sucede.
+Reparación: Corregí los enlaces usando rutas relativas para que vuelvan a ser funcionales.
+
+🚀 Comandos utilizados
+`ls -li`: Para ver el número de inodo.
+`ln -s`: Para crear y reparar enlaces simbólicos.
+`readlink`: Para verificar a dónde apunta un enlace.
