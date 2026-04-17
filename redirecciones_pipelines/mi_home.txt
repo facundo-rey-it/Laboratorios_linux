@@ -1,0 +1,14 @@
+total 48
+-rw-rw-r-- 1 facu facu    0 abr  5 17:00 archivo.txt
+drwxr-xr-x 2 facu facu 4096 mar 27 00:57 Desktop
+drwxr-xr-x 2 facu facu 4096 mar 27 00:57 Documents
+drwxr-xr-x 2 facu facu 4096 abr 16 18:16 Downloads
+drwxrwxr-x 3 facu facu 4096 abr  1 22:46 forense
+drwxrwxr-x 5 facu facu 4096 abr 16 23:38 Laboratorios_linux
+drwxr-xr-x 2 facu facu 4096 mar 27 00:57 Music
+drwxr-xr-x 2 facu facu 4096 mar 27 00:57 Pictures
+drwxr-xr-x 2 facu facu 4096 mar 27 00:57 Public
+drwx------ 4 facu facu 4096 mar 27 22:16 snap
+drwxrwxr-x 4 facu facu 4096 abr 15 20:05 taller
+drwxr-xr-x 2 facu facu 4096 mar 27 00:57 Templates
+drwxr-xr-x 2 facu facu 4096 mar 27 00:57 Videos
