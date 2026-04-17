@@ -12,7 +12,7 @@ Mi meta es dominar la administración de sistemas Linux y la seguridad informát
 A continuación, los módulos completados hasta el momento:
 
 * **[Gestión de Archivos e Inodos](./Gestion-archivos-inodos/)**
-* **[Redireccion y pipelines](./redireccion_pipelines/)**
+* **[Redireccion y pipelines](./redirecciones_pipelines/)**
 * *(Próximamente)* **Sección 8 - Gestión de Usuarios y Permisos**
 
 ---
