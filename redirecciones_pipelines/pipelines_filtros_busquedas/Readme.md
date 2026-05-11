@@ -27,3 +27,22 @@ Ejecuté los siguientes comandos directamente sobre el sistema operativo para va
 
 ---
 **Objetivo:** Consolidar las bases de administración de sistemas para avanzar hacia el análisis de logs y la informática forense.
+
+## 🔍 Módulo 2: Filtros y Extracción de Datos
+En esta etapa, subí el nivel aprendiendo a diseccionar archivos y flujos de datos con comandos de búsqueda y visualización selectiva.
+
+### Herramientas de Análisis:
+* **`grep`**: Búsqueda de patrones específicos (esencial para encontrar vulnerabilidades o IPs).
+* **`tee`**: El "duplicador" de salida. Permite ver el resultado en pantalla y guardarlo en un log simultáneamente.
+* **`head` / `tail`**: Control de visualización. Útiles para leer cabeceras de archivos o monitorear logs en tiempo real (las últimas líneas).
+
+### 🛠️ Práctica Realizada en Ubuntu:
+
+1. **Búsqueda Filtrada:** `ls /etc | grep "network"` 
+   *(Localización rápida de archivos de configuración de red).*
+
+2. **Captura de Evidencia Doble:** `ls / | grep "bin" | tee reporte_sistema.txt` 
+   *(Uso de **tee** para generar un archivo de reporte mientras se supervisa el proceso).*
+
+3. **Monitoreo de Registros:** `tail -n 1 /etc/passwd` 
+   *(Extracción del último usuario creado en el sistema operativo).*

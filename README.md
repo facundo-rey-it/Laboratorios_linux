@@ -13,7 +13,9 @@ A continuación, los módulos completados hasta el momento:
 
 * **[Gestión de Archivos e Inodos](./Gestion-archivos-inodos/)**
 * **[Redireccion y pipelines](./redirecciones_pipelines/)**
-* *(Próximamente)* **Sección 8 - Gestión de Usuarios y Permisos**
+* **[Permisos y usuarios en Linux](./permisos_usuarios_linux/)**
+
+* *(Próximamente)* **Sección 9 - Procesos en linux**
 
 ---
 
